@@ -1,0 +1,22 @@
+{
+  "name": "platform-dashboard",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ben Hu <benjamin658gae@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.1.8",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}

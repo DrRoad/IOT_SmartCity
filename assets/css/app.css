@@ -1,0 +1,40 @@
+#content {
+    padding-top: 68px;
+    font-family: Arial, "新細明體", sans-serif;
+}
+
+.segment#banner {
+    padding: 200px;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.segment#banner h1 {
+    line-height: 1.2;
+}
+
+.segment#banner h1 > .company {
+    display: block;
+    font-size: 1.75em;
+    font-weight: 300;
+}
+
+.segment#banner h1 > .tagline {
+    font-size: 0.75em;
+}
+
+.segment.feature h2 {
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.segment.feature p {
+    width: 90%;
+    font-size: 18px;
+    color: #333;
+}
+
+.segment#device-list{
+    min-height: 50px;
+}
