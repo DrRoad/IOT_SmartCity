@@ -5,5 +5,5 @@
 2. run ```npm install```
 
 
-#####Run in dev mode : ```npm run dev```
-#####Run in production mode : ```npm start```
+* Run in dev mode : ```npm run dev```
+* Run in production mode : ```npm start```
